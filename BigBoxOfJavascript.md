@@ -11,6 +11,7 @@
 ## Progress bars
  - [Mprogress.js](https://lightningtgc.github.io/MProgress.js/) - A progress bar based on material design
  - [ProgressBar.js](https://kimmobrunfeldt.github.io/progressbar.js/) - Another progress bar library
+ - [Elevator.js](http://tholman.com/elevator.js/) - An awesome script that "solves those awkward scroll to top moments the old fashioned way" :D
 
 ## Input tools
  - [Keypress](https://dmauro.github.io/Keypress/) - Simple but powerful keyboard input library
