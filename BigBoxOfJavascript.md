@@ -21,3 +21,4 @@
 ## Services and tools
  - [js.org](http://dns.js.org/) - Free subdomains for Javascript projects
  - [Regexper](http://regexper.com/) - Regular Expression visualiser
+ - [Transformy](https://www.transformy.io/#/app) - Not _strictly_ javascript, but still awesome. Change the format of a list of things by typing in a simple example of what you want it to look like.
