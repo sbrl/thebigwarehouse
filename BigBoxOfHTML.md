@@ -2,7 +2,8 @@
 
 ## Testing Tools
  - [.resizr](http://resizr.co/) - Responsive website testing tool
- - 
+ - [webfont-test](http://webfont-test.com/) - Compare up to 3 fonts at once
+ - [Google Fonts on Github](https://github.com/google/fonts) - A repository that contains the fonts available on [Google Fonts](https://www.google.com/fonts).
 
 ## Packaging Tools
  - [NW.js](http://nwjs.io/) - Previously known as `node-webkit`, this tool lets you package your HTML / CSS / JS app into a bundle (native for your target desktop platform) with Blink & Node.JS.
