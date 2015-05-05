@@ -8,7 +8,7 @@
  - [icono](https://saeedalipoor.github.io/icono/) - Pure CSS icons
 
 ## Tutorials
- - [A Complete Guide to FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A good css-tricks tutorial on how the flexbox works
+ - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A good css-tricks tutorial on how the flexbox works
 
 ## Other
  - [Critical Path CSS Generator](http://jonassebastianohlsson.com/criticalpathcssgenerator/) - Analyses your web page and picks out 7 optimises the CSS needed to render the above-the-fold content
