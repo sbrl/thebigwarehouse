@@ -10,6 +10,9 @@
 ## Tutorials
  - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A good css-tricks tutorial on how the flexbox works
 
+## CSS Resets
+ - [Marx](https://mblode.github.io/marx/) - A small and simplle CSS reset
+
 ## Other
  - [Critical Path CSS Generator](http://jonassebastianohlsson.com/criticalpathcssgenerator/) - Analyses your web page and picks out 7 optimises the CSS needed to render the above-the-fold content
  - [CSS Reset](http://www.cssreset.com/) - List of CSS resets, useful when building bookmarklets
