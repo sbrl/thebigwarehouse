@@ -13,6 +13,8 @@
  - [ProgressBar.js](https://kimmobrunfeldt.github.io/progressbar.js/) - Another progress bar library
  - [Elevator.js](http://tholman.com/elevator.js/) - An awesome script that "solves those awkward scroll to top moments the old fashioned way" :D
 
+ - [layzr.js](https://github.com/callmecavs/layzr.js) - A lightweight library that makes lazy loading ridiculously easy
+
 ## Input tools
  - [Keypress](https://dmauro.github.io/Keypress/) - Simple but powerful keyboard input library
  - [Squire](https://neilj.github.io/Squire/) - Turn a simple `<textarea />` into a rich text editor
