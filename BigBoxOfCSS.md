@@ -7,8 +7,9 @@
 
  - [icono](https://saeedalipoor.github.io/icono/) - Pure CSS icons
 
-## Tutorials
+## Tutorials and References
  - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A good css-tricks tutorial on how the flexbox works
+ - [CSS Selectors Reference](http://www.w3schools.com/cssref/css_selectors.asp) - A reference for the CSS selectors with examples
 
 ## CSS Resets
  - [Marx](https://mblode.github.io/marx/) - A small and simplle CSS reset
