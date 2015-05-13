@@ -11,6 +11,9 @@
 ### Saving
  - [localStorage Bridge](https://github.com/krasimir/lsbridge) - A really cool library that lets you send & recieve messages via localStorage. Useful to let all the pages a user has open communicate with each other.
 
+## Media
+ - [audiosynth](http://keithwhor.github.io/audiosynth/) - A wonderfully simple (albeit underdocumented) library for synthesising notes from various instruments. Not the most powerful, but easy to use.
+
 ## Progress bars
  - [Mprogress.js](https://lightningtgc.github.io/MProgress.js/) - A progress bar based on material design
  - [ProgressBar.js](https://kimmobrunfeldt.github.io/progressbar.js/) - Another progress bar library
