@@ -8,6 +8,9 @@
  - [Awesomplete](https://leaverou.github.io/awesomplete/) - Ultra lightweight autocomplete engine with no dependencies
  - [Olly.js](https://github.com/abeisgreat/Olly.js) - Rich snippets engine
 
+### Saving
+ - [localStorage Bridge](https://github.com/krasimir/lsbridge) - A really cool library that lets you send & recieve messages via localStorage. Useful to let all the pages a user has open communicate with each other.
+
 ## Progress bars
  - [Mprogress.js](https://lightningtgc.github.io/MProgress.js/) - A progress bar based on material design
  - [ProgressBar.js](https://kimmobrunfeldt.github.io/progressbar.js/) - Another progress bar library
