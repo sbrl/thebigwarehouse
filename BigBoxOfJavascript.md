@@ -14,6 +14,9 @@
 ## Media
  - [audiosynth](http://keithwhor.github.io/audiosynth/) - A wonderfully simple (albeit underdocumented) library for synthesising notes from various instruments. Not the most powerful, but easy to use.
 
+## Popup Boxes
+ - [NanoModal](https://github.com/kylepaulsen/NanoModal) - Display those modals dialogs easily
+
 ## Progress bars
  - [Mprogress.js](https://lightningtgc.github.io/MProgress.js/) - A progress bar based on material design
  - [ProgressBar.js](https://kimmobrunfeldt.github.io/progressbar.js/) - Another progress bar library
