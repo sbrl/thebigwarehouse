@@ -10,3 +10,4 @@ This repository is like a 'big warehouse', and it contains a number of different
 
 ## Miscellanious Links
  - [Hackr.io](http://hackr.io/) - This one is too good not to add. A collection of links to computer science / programming tutorials on just about everything. You can even submit to this list too!
+ - [codebeautify.org](http://codebeautify.org/) - A comprehensive set of tools to validate / view / format / minify all sorts of web based languages.
