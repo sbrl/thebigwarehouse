@@ -28,6 +28,7 @@
  - [Keypress](https://dmauro.github.io/Keypress/) - Simple but powerful keyboard input library
  - [Squire](https://neilj.github.io/Squire/) - Turn a simple `<textarea />` into a rich text editor
  - [Dragula](https://github.com/bevacqua/dragula) - Super simple drag & drop
+ - [Insignia](http://bevacqua.github.io/insignia/) - Easy tag input
 
 ## Services and tools
 ### Services
