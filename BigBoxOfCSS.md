@@ -1,7 +1,7 @@
 # The Big box of CSS
 
 ## Ready made animations and icons
- - [Loaders.css](https://github.com/sbrl/thebigwarehouse/blob/master/BigBoxOfJavascript.md) - Pure CSS loading animations
+ - [Loaders.css](http://connoratherton.com/loaders) - Pure CSS loading animations
  - [AniCollection](https://anicollection.github.io/#/) - A collection of CSS animations
  - [Hover.css](https://ianlunn.github.io/Hover/) - More CSS animations
 
