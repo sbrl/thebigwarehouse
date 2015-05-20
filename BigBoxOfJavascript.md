@@ -40,5 +40,6 @@
  - [vorlon.js](http://www.vorlonjs.com/) - Awesome looking remote debugger
  - [keyCode Test Page](http://www.asquare.net/javascript/tests/KeyCode.html) - A test page that shows you the keyCode of the keys you press
 
-## References
+## References & Tutorials
  - [RGraph HTML5 Canvas Reference](http://www.rgraph.net/reference/index.html) - A good HTML5 canvas reference with examples
+ - [RegexOne](http://regexone.com/) - A good reguar expression tutorial we practical examples and tests
