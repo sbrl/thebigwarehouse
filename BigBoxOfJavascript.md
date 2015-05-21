@@ -16,6 +16,7 @@
 
 ## Popup Boxes
  - [NanoModal](https://github.com/kylepaulsen/NanoModal) - Display those modals dialogs easily
+ - [basicContext](https://github.com/electerious/basicContext) - Create custom right click menus easily
 
 ## Progress bars
  - [Mprogress.js](https://lightningtgc.github.io/MProgress.js/) - A progress bar based on material design
