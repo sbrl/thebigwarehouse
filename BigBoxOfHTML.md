@@ -6,6 +6,7 @@
 
 ## Testing Tools
  - [.resizr](http://resizr.co/) - Responsive website testing tool
+ - [SSLlabs](https://www.ssllabs.com/ssltest/) - THE SSL server test. Grades your website from A+ to F on it's SSL capabilities.
 
 ## Web fonts
  - [webfont-test](http://webfont-test.com/) - Compare up to 3 fonts at once
