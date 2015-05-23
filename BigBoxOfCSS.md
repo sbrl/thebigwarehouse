@@ -1,11 +1,13 @@
 # The Big box of CSS
 
 ## Ready made animations and icons
+ - [CSS3 Generators Tools](http://www.cssreflex.com/css-generators/) - A bunch of tools to help you visualise different styling rules
  - [Loaders.css](http://connoratherton.com/loaders) - Pure CSS loading animations
  - [AniCollection](https://anicollection.github.io/#/) - A collection of CSS animations
  - [Hover.css](https://ianlunn.github.io/Hover/) - More CSS animations
 
  - [icono](https://saeedalipoor.github.io/icono/) - Pure CSS icons
+
 
 ## Tutorials and References
  - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A good css-tricks tutorial on how the flexbox works
