@@ -1,7 +1,13 @@
 # The Big Box of HTML
 
+## Validators
+ - [Tecate.js](https://github.com/kevinburke/tecate) - Drop in this script and it will display a warning at the top of your page if you have any invalid markup
+ - [W3C Markup Validation Service](https://validator.w3.org/) - The original HTML validator for all your HTML validating needs
+
 ## Testing Tools
  - [.resizr](http://resizr.co/) - Responsive website testing tool
+
+## Web fonts
  - [webfont-test](http://webfont-test.com/) - Compare up to 3 fonts at once
  - [Google Fonts on Github](https://github.com/google/fonts) - A repository that contains the fonts available on [Google Fonts](https://www.google.com/fonts).
 
