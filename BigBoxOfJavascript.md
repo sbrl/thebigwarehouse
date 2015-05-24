@@ -43,6 +43,6 @@
 
 ## References & Tutorials
  - [RGraph HTML5 Canvas Reference](http://www.rgraph.net/reference/index.html) - A good HTML5 canvas reference with examples
- - [RegexOne](http://regexone.com/) - A good reguar expression tutorial we practical examples and tests
+ - [RegexOne](http://regexone.com/) - A good reguar expression tutorial with practical examples and tests
 
  - [Javascript Scope Quiz](http://madebyknight.com/javascript-scope/) - A small quiz / tutorial to help you understand scope in Javascript
