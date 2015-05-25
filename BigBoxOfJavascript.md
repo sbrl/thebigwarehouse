@@ -40,6 +40,7 @@
  - [Transformy](https://www.transformy.io/#/app) - Not _strictly_ javascript, but still awesome. Change the format of a list of things by typing in a simple example of what you want it to look like.
  - [vorlon.js](http://www.vorlonjs.com/) - Awesome looking remote debugger
  - [keyCode Test Page](http://www.asquare.net/javascript/tests/KeyCode.html) - A test page that shows you the keyCode of the keys you press
+ - [jscompress](http://jscompress.com/) - A simple no-fuss javascript compressor
 
 ## References & Tutorials
  - [RGraph HTML5 Canvas Reference](http://www.rgraph.net/reference/index.html) - A good HTML5 canvas reference with examples
