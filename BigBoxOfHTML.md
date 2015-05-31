@@ -8,9 +8,15 @@
  - [.resizr](http://resizr.co/) - Responsive website testing tool
  - [SSLlabs](https://www.ssllabs.com/ssltest/) - THE SSL server test. Grades your website from A+ to F on it's SSL capabilities.
 
-## fonts
+## Content Generators
+ - [Cat Ipsum](http://catipsum.com/) - A furrier alternative to Lorem Ipsum
+ - [placehold.it](https://placehold.it/) - A simple no-fuss placeholder image service
+ - [placekitten.com](http://placekitten.com/) - A placeholder image service that gives you pictures of kittens
+
+## Fonts
  - [webfont-test](http://webfont-test.com/) - Compare up to 3 fonts at once
  - [Google Fonts on Github](https://github.com/google/fonts) - A repository that contains the fonts available on [Google Fonts](https://www.google.com/fonts).
+ - [&what;](http://www.amp-what.com/) - Not strictly a font tool, but still useful. This website lets you search a considerably sized library of unicode characters and presents you with their HTML entity form.
 
 ### Icon fonts and Equivalent
  - [Font Awesome](http://fontawesome.io/) - A cool icon font with 519(!) icons
