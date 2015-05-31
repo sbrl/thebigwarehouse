@@ -5,6 +5,7 @@
  - [Loaders.css](http://connoratherton.com/loaders) - Pure CSS loading animations
  - [AniCollection](https://anicollection.github.io/#/) - A collection of CSS animations
  - [Hover.css](https://ianlunn.github.io/Hover/) - More CSS animations
+ - [Bounce.js](http://bouncejs.com/) - Don't be fooled by the name - this website lets you generate custom bounce animations
 
  - [icono](https://saeedalipoor.github.io/icono/) - Pure CSS icons
 
