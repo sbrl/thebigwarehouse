@@ -11,6 +11,8 @@
 
  - [Colourful CSS Gradient Background Generator](http://www.webcore-it.com/colorful-background/) - Gnerates colourful backgrounds with a CSS gradient (or 4)
 
+## Preprocessors and rewriters
+ - [CSS Shorthand Generator](http://shrthnd.volume7.io/)
 
 ## Tutorials and References
  - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A good css-tricks tutorial on how the flexbox works
