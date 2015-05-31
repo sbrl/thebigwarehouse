@@ -12,3 +12,4 @@ This repository is like a 'big warehouse', and it contains a number of different
  - [Hackr.io](http://hackr.io/) - This one is too good not to add. A collection of links to computer science / programming tutorials on just about everything. You can even submit to this list too!
  - [codebeautify.org](http://codebeautify.org/) - A comprehensive set of tools to validate / view / format / minify / convert all sorts of web based languages.
  - [JumpChat](https://jumpch.at/) - A service that makes it super easy to start a video / audio call with a group of people
+ - [libraries.io](https://libraries.io/) - A website that watches lots of package managers and acts as a search engine, allowing you to search them all for the library you need
