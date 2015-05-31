@@ -8,10 +8,12 @@
  - [.resizr](http://resizr.co/) - Responsive website testing tool
  - [SSLlabs](https://www.ssllabs.com/ssltest/) - THE SSL server test. Grades your website from A+ to F on it's SSL capabilities.
 
-## Web fonts
+## fonts
  - [webfont-test](http://webfont-test.com/) - Compare up to 3 fonts at once
  - [Google Fonts on Github](https://github.com/google/fonts) - A repository that contains the fonts available on [Google Fonts](https://www.google.com/fonts).
 
+### Icon fonts and Equivalent
+ - [Font Awesome](http://fontawesome.io/) - A cool icon font with 519(!) icons
 
 ## Packaging Tools
  - [NW.js](http://nwjs.io/) - Previously known as `node-webkit`, this tool lets you package your HTML / CSS / JS app into a bundle (native for your target desktop platform) with Blink & Node.JS.
