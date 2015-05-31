@@ -14,6 +14,7 @@
 
 ### Icon fonts and Equivalent
  - [Font Awesome](http://fontawesome.io/) - A cool icon font with 519(!) icons
+ - [Open Iconic](https://useiconic.com/open/) - An open source version of a much larger commerical icon set. Still good - has nice clear icons for use in many different projects.
 
 ## Packaging Tools
  - [NW.js](http://nwjs.io/) - Previously known as `node-webkit`, this tool lets you package your HTML / CSS / JS app into a bundle (native for your target desktop platform) with Blink & Node.JS.
