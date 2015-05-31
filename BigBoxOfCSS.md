@@ -26,5 +26,5 @@
 ## Other
  - [Critical Path CSS Generator](http://jonassebastianohlsson.com/criticalpathcssgenerator/) - Analyses your web page and picks out 7 optimises the CSS needed to render the above-the-fold content
  - [CSS Reset](http://www.cssreset.com/) - List of CSS resets, useful when building bookmarklets
- - [Making a website responsive in 3 easy steps] - Guide to making a website responsive so that it look sgood on a mobile device
+ - [Making a website responsive in 3 easy steps](http://www.catswhocode.com/blog/making-a-website-responsive-in-3-easy-steps) - Guide to making a website responsive so that it look sgood on a mobile device
 
