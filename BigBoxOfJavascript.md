@@ -13,6 +13,7 @@
 
 ## Media
  - [audiosynth](http://keithwhor.github.io/audiosynth/) - A wonderfully simple (albeit underdocumented) library for synthesising notes from various instruments. Not the most powerful, but easy to use.
+ - [textgen.js](https://github.com/mrdoob/texgen.js) - A procedural texture generator written in pure javascript
 
 ## Display Effects
  - [ramjet](http://www.rich-harris.co.uk/ramjet/) - Lets you transform one DOM element into another with a smooth transisition
