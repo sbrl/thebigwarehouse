@@ -8,15 +8,16 @@
  - [Awesomplete](https://leaverou.github.io/awesomplete/) - Ultra lightweight autocomplete engine with no dependencies
  - [Olly.js](https://github.com/abeisgreat/Olly.js) - Rich snippets engine
 
-### Saving
+## Saving
  - [localStorage Bridge](https://github.com/krasimir/lsbridge) - A really cool library that lets you send & recieve messages via localStorage. Useful to let all the pages a user has open communicate with each other.
 
 ## Media
  - [audiosynth](http://keithwhor.github.io/audiosynth/) - A wonderfully simple (albeit underdocumented) library for synthesising notes from various instruments. Not the most powerful, but easy to use.
  - [textgen.js](https://github.com/mrdoob/texgen.js) - A procedural texture generator written in pure javascript
 
-## Display Effects
+## Display
  - [ramjet](http://www.rich-harris.co.uk/ramjet/) - Lets you transform one DOM element into another with a smooth transisition
+ - [ifvisible.js](https://github.com/serkanyersen/ifvisible.js) - Super simple library to detect if the user is actually looking at your page at a given moment
 
 ## Popup Boxes
  - [NanoModal](https://github.com/kylepaulsen/NanoModal) - Display those modals dialogs easily
@@ -36,6 +37,9 @@
  - [Quill](http://quilljs.com/) - Another rich text editor for the web
  - [Dragula](https://github.com/bevacqua/dragula) - Super simple drag & drop
  - [Insignia](http://bevacqua.github.io/insignia/) - Easy tag input
+
+## Parsing
+ - [DOM lite](https://github.com/litejs/dom-lite) - A small DOM implementation. Does not parse HTML currently.
 
 ## Services and tools
 ### Services
