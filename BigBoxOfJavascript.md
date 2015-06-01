@@ -20,6 +20,7 @@
 ## Popup Boxes
  - [NanoModal](https://github.com/kylepaulsen/NanoModal) - Display those modals dialogs easily
  - [basicContext](https://github.com/electerious/basicContext) - Create custom right click menus easily
+ - [Headhesive](https://markgoodyear.com/labs/headhesive/) - Create customiseable fixed headers that appear at certain points on a page
 
 ## Progress bars
  - [Mprogress.js](https://lightningtgc.github.io/MProgress.js/) - A progress bar based on material design
