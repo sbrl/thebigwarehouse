@@ -15,6 +15,10 @@
 
  - [High Resolution Browser Logos](https://github.com/alrra/browser-logos#high-resolution-browser-logos) - A GitHub repository that contains high resolution logos for every browser under the sun
 
+## Colour Pickers
+ - [Bumblemonkey Colour Picker](http://bumblemonkey.com/picker/picker.html) - A simple colour picker. Also converts RGB to Hex and vice versa.
+ - [ColorBlendy](http://colorblendy.com/) - Blend colors with different modes (e.g. multiply, overlay, dodge, etc.)
+
 ## Fonts
  - [webfont-test](http://webfont-test.com/) - Compare up to 3 fonts at once
  - [Google Fonts on Github](https://github.com/google/fonts) - A repository that contains the fonts available on [Google Fonts](https://www.google.com/fonts).
