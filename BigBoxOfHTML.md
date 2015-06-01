@@ -8,10 +8,12 @@
  - [.resizr](http://resizr.co/) - Responsive website testing tool
  - [SSLlabs](https://www.ssllabs.com/ssltest/) - THE SSL server test. Grades your website from A+ to F on it's SSL capabilities.
 
-## Content Generators
+## Content & Generators
  - [Cat Ipsum](http://catipsum.com/) - A furrier alternative to Lorem Ipsum
  - [placehold.it](https://placehold.it/) - A simple no-fuss placeholder image service
  - [placekitten.com](http://placekitten.com/) - A placeholder image service that gives you pictures of kittens
+
+ - [High Resolution Browser Logos](https://github.com/alrra/browser-logos#high-resolution-browser-logos) - A GitHub repository that contains high resolution logos for every browser under the sun
 
 ## Fonts
  - [webfont-test](http://webfont-test.com/) - Compare up to 3 fonts at once
