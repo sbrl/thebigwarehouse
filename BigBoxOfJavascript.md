@@ -33,6 +33,7 @@
 ## Input tools
  - [Keypress](https://dmauro.github.io/Keypress/) - Simple but powerful keyboard input library
  - [Squire](https://neilj.github.io/Squire/) - Turn a simple `<textarea />` into a rich text editor
+ - [Quill](http://quilljs.com/) - Another rich text editor for the web
  - [Dragula](https://github.com/bevacqua/dragula) - Super simple drag & drop
  - [Insignia](http://bevacqua.github.io/insignia/) - Easy tag input
 
