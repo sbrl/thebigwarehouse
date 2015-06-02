@@ -41,6 +41,11 @@
 ## Parsing
  - [DOM lite](https://github.com/litejs/dom-lite) - A small DOM implementation. Does not parse HTML currently.
 
+## Amazing / Really Useful NPM Modules
+This section could easily get absolutely huge, so it is limited to a *very* small selection of the best.
+
+ - [got](https://github.com/sindresorhus/got/) - A replacement to the famous `request` module. Apparently much lighter and faster. Does not have as many dependencies.
+
 ## Services and tools
 ### Services
  - [js.org](http://dns.js.org/) - Free subdomains for Javascript projects
