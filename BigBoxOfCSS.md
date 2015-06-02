@@ -11,6 +11,8 @@
 
  - [Colourful CSS Gradient Background Generator](http://www.webcore-it.com/colorful-background/) - Gnerates colourful backgrounds with a CSS gradient (or 4)
 
+ - [Hint.css](http://kushagragour.in/lab/hint/) - Pure CSS tooltips
+
 ## Preprocessors and rewriters
  - [CSS Shorthand Generator](http://shrthnd.volume7.io/) - A wensite that converts your long hand styling rules into their shorthand versions
  - [Myth](http://myth.io/) - A preprocessor that converts CSS using all the laatest techniques into CSS that every browser will understand with graceful fallbacks
