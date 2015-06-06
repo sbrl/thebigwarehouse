@@ -23,6 +23,7 @@
 ## Fonts
  - [webfont-test](http://webfont-test.com/) - Compare up to 3 fonts at once
  - [Google Fonts on Github](https://github.com/google/fonts) - A repository that contains the fonts available on [Google Fonts](https://www.google.com/fonts).
+ - [Font Library](http://katydecorah.com/font-library/) - An open source project that is tagging all the Google Fonts.
  - [&what;](http://www.amp-what.com/) - Not strictly a font tool, but still useful. This website lets you search a considerably sized library of unicode characters and presents you with their HTML entity form.
 
 ### Icon fonts and Equivalent
