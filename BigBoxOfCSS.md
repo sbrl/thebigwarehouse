@@ -20,7 +20,7 @@
 ## Generators and Calculators
  - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/) - A GUI to help you design CSS gradients
  - [RedAlt I Like Your Colours](http://redalt.com/ilyc) - Find out what colours any website is using
- - [Nested `border-radius` calculator](http://joshnh.com/tools/get-your-nested-border-radii-right.html) - Calculate nested `border-radius`es that look good together
+ - [Nested `border-radius` Calculator](http://joshnh.com/tools/get-your-nested-border-radii-right.html) - Calculate nested `border-radius`es that look good together
 
 ## Tutorials and References
  - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A good css-tricks tutorial on how the flexbox works
