@@ -29,7 +29,7 @@
 
 ## CSS Resets
  - [CSS Reset](http://www.cssreset.com/) - List of CSS resets, useful when building bookmarklets
- - [Marx](https://mblode.github.io/marx/) - A small and simplle CSS reset
+ - [Marx](https://mblode.github.io/marx/) - A small and simple CSS reset
 
 ## Other
  - [Critical Path CSS Generator](http://jonassebastianohlsson.com/criticalpathcssgenerator/) - Analyses your web page and picks out 7 optimises the CSS needed to render the above-the-fold content
