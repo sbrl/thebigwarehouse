@@ -16,6 +16,9 @@
 
  - [High Resolution Browser Logos](https://github.com/alrra/browser-logos#high-resolution-browser-logos) - A GitHub repository that contains high resolution logos for every browser under the sun
 
+## Accessibility
+ - [abbr-touch](https://github.com/Tyriar/abbr-touch) - Make the `title` attribute of the `<abbr>` (abbreviation) HTML element accessible to touch screen users
+
 ## Colour Pickers
  - [Bumblemonkey Colour Picker](http://bumblemonkey.com/picker/picker.html) - A simple colour picker. Also converts RGB to Hex and vice versa.
  - [ColorBlendy](http://colorblendy.com/) - Blend colors with different modes (e.g. multiply, overlay, dodge, etc.)
