@@ -1,7 +1,6 @@
 # The Big Box of HTML
 
 ## Validators
- - [Tecate.js](https://github.com/kevinburke/tecate) - Drop in this script and it will display a warning at the top of your page if you have any invalid markup
  - [W3C Markup Validation Service](https://validator.w3.org/) - The original HTML validator for all your HTML validating needs
 
 ## Testing Tools
