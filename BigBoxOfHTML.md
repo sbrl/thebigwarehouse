@@ -15,6 +15,8 @@
 
  - [High Resolution Browser Logos](https://github.com/alrra/browser-logos#high-resolution-browser-logos) - A GitHub repository that contains high resolution logos for every browser under the sun
 
+ - [htpasswd generator](http://aspirine.org/htpasswd_en.html) - Online tool that generates .htpasswd entries. Useful for both apache and nginx.
+
 ## Accessibility
  - [abbr-touch](https://github.com/Tyriar/abbr-touch) - Make the `title` attribute of the `<abbr>` (abbreviation) HTML element accessible to touch screen users
 
