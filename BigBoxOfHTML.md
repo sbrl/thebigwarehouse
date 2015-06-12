@@ -12,6 +12,7 @@
  - [Cat Ipsum](http://catipsum.com/) - A furrier alternative to Lorem Ipsum
  - [placehold.it](https://placehold.it/) - A simple no-fuss placeholder image service
  - [placekitten.com](http://placekitten.com/) - A placeholder image service that gives you pictures of kittens
+ - [playr](http://plyr.io/) - A super simple HTML5 video and audio player
 
  - [High Resolution Browser Logos](https://github.com/alrra/browser-logos#high-resolution-browser-logos) - A GitHub repository that contains high resolution logos for every browser under the sun
 
