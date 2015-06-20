@@ -20,6 +20,7 @@
 
 ## Accessibility
  - [abbr-touch](https://github.com/Tyriar/abbr-touch) - Make the `title` attribute of the `<abbr>` (abbreviation) HTML element accessible to touch screen users
+ - [Help users checkout faster with autiofill](http://updates.html5rocks.com/2015/06/checkout-faster-with-Autofill) - A great article about using the `autocomplete` attribute to indicate what kind of content each input box should contain
 
 ## Colour Pickers
  - [Bumblemonkey Colour Picker](http://bumblemonkey.com/picker/picker.html) - A simple colour picker. Also converts RGB to Hex and vice versa.
