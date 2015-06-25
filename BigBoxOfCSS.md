@@ -16,6 +16,7 @@
 ## Preprocessors and rewriters
  - [CSS Shorthand Generator](http://shrthnd.volume7.io/) - A wensite that converts your long hand styling rules into their shorthand versions
  - [Myth](http://myth.io/) - A preprocessor that converts CSS using all the laatest techniques into CSS that every browser will understand with graceful fallbacks
+ - [PurifyCSS](https://github.com/purifycss/purifycss) - Automatically remove unused CSS at build time. Great if you use CSS frameworks as this tool can seriously cut down on the amount of CSS that is sent to the user's browser.
 
 ## Generators and Calculators
  - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/) - A GUI to help you design CSS gradients
