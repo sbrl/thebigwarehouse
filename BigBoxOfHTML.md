@@ -10,6 +10,7 @@
  - [justice](http://okor.github.io/justice/) - An alternative web page performance monitor.
 
 ## Content & Generators
+ - [Epic Favicon Generator](https://epicfavicongenerator.com/) - A simple no-fuss favicon generator.
  - [Cat Ipsum](http://catipsum.com/) - A furrier alternative to Lorem Ipsum
  - [placehold.it](https://placehold.it/) - A simple no-fuss placeholder image service
  - [placekitten.com](http://placekitten.com/) - A placeholder image service that gives you pictures of kittens
