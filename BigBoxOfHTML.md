@@ -20,6 +20,9 @@
 
  - [htpasswd generator](http://aspirine.org/htpasswd_en.html) - Online tool that generates .htpasswd entries. Useful for both apache and nginx.
 
+## Layout
+ - [Peppermint touch slider](http://wd.dizaina.net/en/scripts/peppermint/) - Easy to use library for creating sliders.
+
 ## Accessibility
  - [abbr-touch](https://github.com/Tyriar/abbr-touch) - Make the `title` attribute of the `<abbr>` (abbreviation) HTML element accessible to touch screen users
  - [Help users checkout faster with autiofill](http://updates.html5rocks.com/2015/06/checkout-faster-with-Autofill) - A great article about using the `autocomplete` attribute to indicate what kind of content each input box should contain
