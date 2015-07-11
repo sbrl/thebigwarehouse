@@ -41,6 +41,7 @@
 
 ## Parsing
  - [DOM lite](https://github.com/litejs/dom-lite) - A small DOM implementation. Does not parse HTML currently.
+ - [Regexp.escape](https://github.com/jonathantneal/regexp-escape) - Pass this a string and it will return an escaped version for regular expressions.
 
 ## Amazing / Really Useful NPM Modules
 This section could easily get absolutely huge, so it is limited to a *very* small selection of the best.
