@@ -18,6 +18,7 @@
 ## Display
  - [ramjet](http://www.rich-harris.co.uk/ramjet/) - Lets you transform one DOM element into another with a smooth transisition
  - [ifvisible.js](https://github.com/serkanyersen/ifvisible.js) - Super simple library to detect if the user is actually looking at your page at a given moment
+ - [marklib](http://bowlingx.github.io/marklib/) - Highlight any text on a web page.
 
 ## Popup Boxes
  - [NanoModal](https://github.com/kylepaulsen/NanoModal) - Display those modals dialogs easily
