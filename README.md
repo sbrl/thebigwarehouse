@@ -15,3 +15,4 @@ This repository is like a 'big warehouse', and it contains a number of different
  - [JumpChat](https://jumpch.at/) - A service that makes it super easy to start a video / audio call with a group of people
  - [libraries.io](https://libraries.io/) - A website that watches lots of package managers and acts as a search engine, allowing you to search them all for the library you need.
  - [TurboBytes Pulse](https://pulse.turbobytes.com/) - Do DNS lookups, traceroutes, and HTTP HEAD requests from many locations around the globe.
+ - [Up1](https://github.com/Upload/Up1) - A client-side-encrypted image / text / file host that encrypts files on the client, so the server doesn't know anything about the files it is hosting.
