@@ -39,10 +39,11 @@
  - [Dragula](https://github.com/bevacqua/dragula) - Super simple drag & drop
  - [Insignia](http://bevacqua.github.io/insignia/) - Easy tag input
 
-## Parsing
+## Parsing and Manipulation
  - [DOM lite](https://github.com/litejs/dom-lite) - A small DOM implementation. Does not parse HTML currently.
  - [Regexp.escape](https://github.com/jonathantneal/regexp-escape) - Pass this a string and it will return an escaped version for regular expressions.
  - [is.js](https://github.com/rthor/isjs) - Check to see if a string is in the format of many common things - e.g. credit card number, date, phone numbe , ISBN number, etc.
+ - [Complex.js](https://github.com/infusion/Complex.js) - A complex number manipulation library.
 
 ## Amazing / Really Useful NPM Modules
 This section could easily get absolutely huge, so it is limited to a *very* small selection of the best.
