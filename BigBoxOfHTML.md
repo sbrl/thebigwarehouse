@@ -26,6 +26,7 @@
 ## Layout
  - [Peppermint touch slider](http://wd.dizaina.net/en/scripts/peppermint/) - Easy to use library for creating sliders.
  - [watermark.js](http://brianium.github.io/watermarkjs/) - watermark images in the browser.
+ - [Stickers.js](http://stickerjs.cmiscm.com/) - Apply an (interactive!) sticker effect to an image
 
 ## Accessibility
  - [abbr-touch](https://github.com/Tyriar/abbr-touch) - Make the `title` attribute of the `<abbr>` (abbreviation) HTML element accessible to touch screen users
