@@ -20,6 +20,9 @@
  - [ifvisible.js](https://github.com/serkanyersen/ifvisible.js) - Super simple library to detect if the user is actually looking at your page at a given moment
  - [marklib](http://bowlingx.github.io/marklib/) - Highlight any text on a web page.
 
+### 3D
+ - [WebGLStudio.js](http://webglstudio.org/) - A seriously interesting looking platform that lets create and / or edit webgl scenes.
+
 ## Popup Boxes
  - [NanoModal](https://github.com/kylepaulsen/NanoModal) - Display those modals dialogs easily
  - [basicContext](https://github.com/electerious/basicContext) - Create custom right click menus easily
