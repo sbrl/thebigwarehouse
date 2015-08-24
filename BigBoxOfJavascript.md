@@ -2,6 +2,9 @@
 
  - [es6-features.org](http://es6-features.org/#SpreadOperator) - An overview of the new features added in EcmaScript 6
 
+## Polyfills
+ - [Fake IndexedDB](https://github.com/dumbmatter/fakeIndexedDB) - A pure JS in-memory implementation of the IndexedDB API
+
 ## Net
  - [jsRequest](https://github.com/danilo-valente/jsRequest) - Fast and easy asynchronous JavaScript files loading.
 
