@@ -1,7 +1,5 @@
 # The Big Box of Javascript
 
- - [es6-features.org](http://es6-features.org/#SpreadOperator) - An overview of the new features added in EcmaScript 6
-
 ## Polyfills
  - [Fake IndexedDB](https://github.com/dumbmatter/fakeIndexedDB) - A pure JS in-memory implementation of the IndexedDB API
 
@@ -75,6 +73,7 @@ This section could easily get absolutely huge, so it is limited to a *very* smal
  - [jsPerf](https://jsperf.com/) - JavaScript performance playground. Create tests online to compare different pieces of javascript code.
 
 ## References & Tutorials
+ - [es6-features.org](http://es6-features.org/#SpreadOperator) - An overview of the new features added in EcmaScript 6
  - [RGraph HTML5 Canvas Reference](http://www.rgraph.net/reference/index.html) - A good HTML5 canvas reference with examples
  - [RegexOne](http://regexone.com/) - A good reguar expression tutorial with practical examples and tests
 
