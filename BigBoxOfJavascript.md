@@ -2,6 +2,9 @@
 
  - [es6-features.org](http://es6-features.org/#SpreadOperator) - An overview of the new features added in EcmaScript 6
 
+## Net
+ - [jsRequest](https://github.com/danilo-valente/jsRequest) - Fast and easy asynchronous JavaScript files loading.
+
 ## Searching
  - [lunr.js](http://lunrjs.com/) - A lightweight search engine to use
  - [Defiant.js](http://www.defiantjs.com/) - Search JSON structures with XPath expressions
