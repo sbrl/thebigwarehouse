@@ -20,6 +20,7 @@
 
 ## Polyfills
  - [CSS.escape](https://github.com/mathiasbynens/CSS.escape) - A polyfill for the new CSS.escape method.
+ - [CSS conical gradient](http://leaverou.github.io/conic-gradient/) - A polyfill for the _awesome_ new conical gradient
 
 ## Generators and Calculators
  - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/) - A GUI to help you design CSS gradients
