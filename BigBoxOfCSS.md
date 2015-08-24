@@ -10,6 +10,7 @@
  - [icono](https://saeedalipoor.github.io/icono/) - Pure CSS icons
 
  - [Colourful CSS Gradient Background Generator](http://www.webcore-it.com/colorful-background/) - Gnerates colourful backgrounds with a CSS gradient (or 4)
+ - [Gradify](http://gradifycss.com/) - A python script that generates a gradient that can be used as a placeholder before an image loads.
 
  - [Hint.css](http://kushagragour.in/lab/hint/) - Pure CSS tooltips
 
