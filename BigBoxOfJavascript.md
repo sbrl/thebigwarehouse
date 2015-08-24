@@ -67,6 +67,9 @@ This section could easily get absolutely huge, so it is limited to a *very* smal
  - [keyCode Test Page](http://www.asquare.net/javascript/tests/KeyCode.html) - A test page that shows you the keyCode of the keys you press
  - [jscompress](http://jscompress.com/) - A simple no-fuss javascript compressor
 
+#### Performance
+ - [jsPerf](https://jsperf.com/) - JavaScript performance playground. Create tests online to compare different pieces of javascript code.
+
 ## References & Tutorials
  - [RGraph HTML5 Canvas Reference](http://www.rgraph.net/reference/index.html) - A good HTML5 canvas reference with examples
  - [RegexOne](http://regexone.com/) - A good reguar expression tutorial with practical examples and tests
