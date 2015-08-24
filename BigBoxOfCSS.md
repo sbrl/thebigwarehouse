@@ -13,8 +13,11 @@
 
  - [Hint.css](http://kushagragour.in/lab/hint/) - Pure CSS tooltips
 
+## Frameworks
+ - [chewing-grid](http://tzi.github.io/chewing-grid.css/) - A CSS Grid ideal for card listing design like tiles, videos or articles listing.
+
 ## Preprocessors and rewriters
-g - [CSS Shorthand Generator](http://shrthnd.volume7.io/) - A wensite that converts your long hand styling rules into their shorthand versions
+ - [CSS Shorthand Generator](http://shrthnd.volume7.io/) - A wensite that converts your long hand styling rules into their shorthand versions
  - [Myth](http://myth.io/) - A preprocessor that converts CSS using all the laatest techniques into CSS that every browser will understand with graceful fallbacks
  - [PurifyCSS](https://github.com/purifycss/purifycss) - Automatically remove unused CSS at build time. Great if you use CSS frameworks as this tool can seriously cut down on the amount of CSS that is sent to the user's browser.
 
