@@ -18,6 +18,9 @@
  - [Myth](http://myth.io/) - A preprocessor that converts CSS using all the laatest techniques into CSS that every browser will understand with graceful fallbacks
  - [PurifyCSS](https://github.com/purifycss/purifycss) - Automatically remove unused CSS at build time. Great if you use CSS frameworks as this tool can seriously cut down on the amount of CSS that is sent to the user's browser.
 
+## Polyfills
+ - [CSS.escape](https://github.com/mathiasbynens/CSS.escape) - A polyfill for the new CSS.escape method.
+
 ## Generators and Calculators
  - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/) - A GUI to help you design CSS gradients
  - [RedAlt I Like Your Colours](http://redalt.com/ilyc) - Find out what colours any website is using
