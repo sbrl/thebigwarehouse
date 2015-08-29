@@ -29,6 +29,7 @@
  - [watermark.js](http://brianium.github.io/watermarkjs/) - watermark images in the browser.
  - [Stickers.js](http://stickerjs.cmiscm.com/) - Apply an (interactive!) sticker effect to an image
  - [Stretchy](http://leaverou.github.io/stretchy/) - Easy form element autoresizing
+ - [wallop](http://pedroduarte.me/wallop/) - Library to show / hide stuff, includes a previous / next system.
 
 ## Accessibility
  - [abbr-touch](https://github.com/Tyriar/abbr-touch) - Make the `title` attribute of the `<abbr>` (abbreviation) HTML element accessible to touch screen users
