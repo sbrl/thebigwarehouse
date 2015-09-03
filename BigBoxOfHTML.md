@@ -63,6 +63,7 @@
  - [HTML5 Semantic Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png) - Don't know which semantic HTML5 element to use? Use this flowchart to find out!
 
  - [Feditor.IO](http://feditor.io/) - Another online HTML / CSS / JS playground. Doesn't have a save function from what I can see, but apart from that it looks quite good.
+ - [CodeMyUI.com](http://codemyui.com/) - A curated collection of code snippets. A bit like this repository actually!
 
 ## Support Websites
 This section is a bit different - it contains link to sites that you might want to link to if a user of your website doesn't support a technology that you require.
