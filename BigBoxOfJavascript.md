@@ -5,6 +5,7 @@
 
 ## Net
  - [jsRequest](https://github.com/danilo-valente/jsRequest) - Fast and easy asynchronous JavaScript files loading.
+ - [frameSync](https://github.com/activenode/frameSync) - Synchonise ultiple different browser windows that are displaying content from the same domain
 
 ## Searching
  - [lunr.js](http://lunrjs.com/) - A lightweight search engine to use
