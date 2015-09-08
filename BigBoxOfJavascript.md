@@ -24,6 +24,7 @@
  - [ramjet](http://www.rich-harris.co.uk/ramjet/) - Lets you transform one DOM element into another with a smooth transisition
  - [ifvisible.js](https://github.com/serkanyersen/ifvisible.js) - Super simple library to detect if the user is actually looking at your page at a given moment
  - [marklib](http://bowlingx.github.io/marklib/) - Highlight any text on a web page.
+ - [spin.js](http://fgnass.github.io/spin.js/) - Generate your loading spinners dynamically.
 
 ### 3D
  - [WebGLStudio.js](http://webglstudio.org/) - A seriously interesting looking platform that lets create and / or edit webgl scenes.
