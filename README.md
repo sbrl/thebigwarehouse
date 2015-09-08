@@ -17,3 +17,4 @@ This repository is like a 'big warehouse', and it contains a number of different
  - [TurboBytes Pulse](https://pulse.turbobytes.com/) - Do DNS lookups, traceroutes, and HTTP HEAD requests from many locations around the globe.
  - [Up1](https://github.com/Upload/Up1) - A client-side-encrypted image / text / file host that encrypts files on the client, so the server doesn't know anything about the files it is hosting.
  - [ImDisk Toolkit](http://reboot.pro/files/file/284-imdisk-toolkit/) - A fantasic toolkit for mounting all sorts image files. Uses and extends [Imdisk](http://www.ltr-data.se/opencode.html/#ImDisk) as a backend. Allows creation of ramdisks that are dynamically allocated, and the mounting of many different virtual hard disk files too.
+ - [ttystudio](https://github.com/chjj/ttystudio) - An easy to use terminal recorder. Uses Node.js. Run `npm install ttystudio`.
