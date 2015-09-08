@@ -14,7 +14,7 @@
  - [Olly.js](https://github.com/abeisgreat/Olly.js) - Rich snippets engine
 
 ## Saving
- - [localStorage Bridge](https://github.com/krasimir/lsbridge) - A really cool library that lets you send & recieve messages via localStorage. Useful to let all the pages a user has open communicate with each other.
+ - [localStorage Bridge](https://github.com/krasimir/lsbridge) - A really cool library that lets you send & receive messages via localStorage. Useful to let all the pages a user has open communicate with each other.
 
 ## Media
  - [audiosynth](http://keithwhor.github.io/audiosynth/) - A wonderfully simple (albeit underdocumented) library for synthesising notes from various instruments. Not the most powerful, but easy to use.
