@@ -33,6 +33,7 @@
  - [houdini](https://github.com/cferdinandi/houdini/) - A super simple script to make an element collapsible.
  - [layzr.js](http://callmecavs.github.io/layzr.js/) - An easy to use lazy image loading script
  - [[be]lazy.js](http://dinbror.dk/blazy/) - An alternative to the above. Looks slightly more advanced, but also more complex.
+ - [tabby](https://github.com/cferdinandi/tabby/) - A drop-in easy to use tab system. Works using ids, and supports both `<a>` tags and buttons.
 
 ## Accessibility
  - [abbr-touch](https://github.com/Tyriar/abbr-touch) - Make the `title` attribute of the `<abbr>` (abbreviation) HTML element accessible to touch screen users
