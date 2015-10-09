@@ -11,6 +11,7 @@
  - [lunr.js](http://lunrjs.com/) - A lightweight search engine to use
  - [Defiant.js](http://www.defiantjs.com/) - Search JSON structures with XPath expressions
  - [Awesomplete](https://leaverou.github.io/awesomplete/) - Ultra lightweight autocomplete engine with no dependencies
+ - [horsey](http://bevacqua.github.io/horsey/) - An alternative autocomplete engine. Doesn't support getting entries from HTML, but does support fetching options asynchronously (i.e. AJAX).
  - [Olly.js](https://github.com/abeisgreat/Olly.js) - Rich snippets engine
 
 ## Saving
