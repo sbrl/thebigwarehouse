@@ -41,6 +41,7 @@
 ## CSS Resets
  - [CSS Reset](http://www.cssreset.com/) - List of CSS resets, useful when building bookmarklets
  - [Marx](https://mblode.github.io/marx/) - A small and simple CSS reset
+ - [sanitize.css](http://10up.github.io/sanitize.css/) - Makes browsers  render elements consistently.
 
 ## Other
  - [Critical Path CSS Generator](http://jonassebastianohlsson.com/criticalpathcssgenerator/) - Analyses your web page and picks out 7 optimises the CSS needed to render the above-the-fold content
