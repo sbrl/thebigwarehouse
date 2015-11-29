@@ -53,6 +53,7 @@
  - [Keypress](https://dmauro.github.io/Keypress/) - Simple but powerful keyboard input library
  - [Squire](https://neilj.github.io/Squire/) - Turn a simple `<textarea />` into a rich text editor
  - [Quill](http://quilljs.com/) - Another rich text editor for the web
+ - [woofmark](http://bevacqua.github.io/woofmark/) - An ultra themeable html / markdown editor.
  - [Dragula](https://github.com/bevacqua/dragula) - Super simple drag & drop
  - [Insignia](http://bevacqua.github.io/insignia/) - Easy tag input
  - [clipboard.js](http://zenorocha.github.io/clipboard.js/) - Finally the simple copy to clipboard library you've been looking for. 2kb - no dependencies, no fuss, no hassle :)
