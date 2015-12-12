@@ -2,6 +2,7 @@
 
 ## Validators
  - [W3C Markup Validation Service](https://validator.w3.org/) - The original HTML validator for all your HTML validating needs
+ - [Structured Data Linter](http://linter.structured-data.org/) - Check your page's microdata and structured data.
 
 ## Testing Tools
  - [.resizr](http://resizr.co/) - Responsive website testing tool
