@@ -71,7 +71,7 @@
 This section is a bit different - it contains link to sites that you might want to link to if a user of your website doesn't support a technology that you require.
  - [enable-javascript.com](http://enable-javascript.com/) - Shows the user how to enable javascript in their browser
  - [What Browser?](https://whatbrowser.org/) - Useful to link to if a user has an outdated browser
- - [Browse Happy](http://browsehappy.com) - Another site to link your visitors what don't have an up to date browser to. Created by Wordpress.
+ - [Browse Happy](http://browsehappy.com/) - Another site to link your visitors that don't have an up to date browser to. Created by Wordpress.
 
 ## Other
  - [SRI Hash Generator](https://srihash.org/) - Compute the SRI hash for the resource at a given url. See [cloudflare's blog post](https://blog.cloudflare.com/an-introduction-to-javascript-based-ddos/) (Scroll to the section on "Subresource Integrity") for more information.
