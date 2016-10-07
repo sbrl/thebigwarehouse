@@ -25,6 +25,7 @@
  - [textgen.js](https://github.com/mrdoob/texgen.js) - A procedural texture generator written in pure javascript.
  - [Popmotion](http://popmotion.io/) - A 12kb motion / input engine.
  - [ClickSpark.js](http://www.ymc.ch/sandbox/clickspark/demo.html) - Add particle effects on mouse click.
+ - [Photo Sphere Viewer](http://photo-sphere-viewer.js.org/) - A JS library to display your photo spheres.
 
 ## Display
  - [ramjet](http://www.rich-harris.co.uk/ramjet/) - Lets you transform one DOM element into another with a smooth transisition
