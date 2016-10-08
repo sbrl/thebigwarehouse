@@ -51,6 +51,7 @@
  - [webfont-test](http://webfont-test.com/) - Compare up to 3 fonts at once
  - [Google Fonts on Github](https://github.com/google/fonts) - A repository that contains the fonts available on [Google Fonts](https://www.google.com/fonts).
  - [Font Library](http://katydecorah.com/font-library/) - An open source project that is tagging all the Google Fonts.
+ - [Noto](https://www.google.com/get/noto/) - A font that supports every single character in the Unicode character set. Every. single. one. If you can't find a font to display a specific character, use this. The whole thing weighs in at a staggering 472.6MB (!), although it's split up into different fonts for each language.
  - [&what;](http://www.amp-what.com/) - Not strictly a font tool, but still useful. This website lets you search a considerably sized library of unicode characters and presents you with their HTML entity form.
 
 ### Icon fonts and Equivalent
