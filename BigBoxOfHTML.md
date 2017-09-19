@@ -63,6 +63,7 @@
  - [Electron](http://electron.atom.io/) - An alternative to the above. Looks to be smaller, but I don't really know how it works.
 
 ## Tutorials and References
+ - [HTML Cheatsheet](https://digital.com/tools/html-cheatsheet/) - An interactive HTML5 cheat sheet. Gives a quick explanation along with a code example for each element.
  - [HTML5 Semantic Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png) - Don't know which semantic HTML5 element to use? Use this flowchart to find out!
 
  - [Feditor.IO](http://feditor.io/) - Another online HTML / CSS / JS playground. Doesn't have a save function from what I can see, but apart from that it looks quite good.
