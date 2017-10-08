@@ -88,5 +88,6 @@ This section could easily get absolutely huge, so it is limited to a *very* smal
  - [es6-features.org](http://es6-features.org/#SpreadOperator) - An overview of the new features added in EcmaScript 6
  - [RGraph HTML5 Canvas Reference](http://www.rgraph.net/reference/index.html) - A good HTML5 canvas reference with examples
  - [RegexOne](http://regexone.com/) - A good reguar expression tutorial with practical examples and tests
+ - [ES6 Modules Tutorial](https://jakearchibald.com/2017/es-modules-in-browsers/) - A good tutorial on ES6 modules.
 
  - [Javascript Scope Quiz](http://madebyknight.com/javascript-scope/) - A small quiz / tutorial to help you understand scope in Javascript
