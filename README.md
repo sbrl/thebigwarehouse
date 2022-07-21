@@ -30,3 +30,4 @@ These boxes aren't quite full enough to be put into the main warehouse inventory
  - [ImDisk Toolkit](http://reboot.pro/files/file/284-imdisk-toolkit/) - A fantasic toolkit for mounting all sorts image files. Uses and extends [Imdisk](http://www.ltr-data.se/opencode.html/#ImDisk) as a backend. Allows creation of ramdisks that are dynamically allocated, and the mounting of many different virtual hard disk files too.
  - [ttystudio](https://github.com/chjj/ttystudio) - An easy to use terminal recorder. Uses Node.js. Run `npm install ttystudio`.
  - [ShellCheck](https://www.shellcheck.net/) - An online tool that checks your bash scripts for common mistakes. Also available in other formats, such as through `apt`.
+ - [Scaler](https://www.scaler.com/topics/) - Understand how programming works, Learn Python, Java, Data Structure, C/C++ and other popular programming languages with easy to follow tutorials and example programs.
